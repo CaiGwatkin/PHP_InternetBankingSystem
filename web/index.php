@@ -11,3 +11,5 @@
  * @package cgwatkin\a2
  * @author  C. Gwatkin <caigwatkin@gmail.com>
  **/
+
+print "<p>Hello World!</p>";
